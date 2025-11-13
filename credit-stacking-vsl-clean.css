@@ -479,9 +479,8 @@ section p {
 }
 
 .cs-tp-card {
-  background: #020b1f;
-  border-radius: 16px;
-  border: 1px solid rgba(148, 163, 184, 0.3);
+  background: #f0ece7;
+  
   padding: 12px 13px 13px;
 }
 
@@ -603,5 +602,8 @@ footer a {
   .cs-tp-card img {
     width: 100%;
     height: auto;
+  }
+	.hide-mobile {
+    display: none !important;
   }
 }
